@@ -1,2 +1,4 @@
-edu\eci\arep\connetion\MongoDB.class
+edu\eci\arep\service\LogServiceImpl.class
+edu\eci\arep\service\LogService.class
+edu\eci\arep\controller\UserController.class
 edu\eci\arep\SparkWebServer.class
